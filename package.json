@@ -1,0 +1,26 @@
+{
+  "name": "companion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://patrykapriasz:Milorad1!@github.com/patrykapriasz/Companion.git"
+  },
+  "author": "Patryk Apriasz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patrykapriasz/Companion/issues"
+  },
+  "homepage": "https://github.com/patrykapriasz/Companion#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
